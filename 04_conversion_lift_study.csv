@@ -1,0 +1,3 @@
+group,users,saw_ads,enrollments,conversion_rate
+Test_Exposed,600000,Yes,1140,0.001900
+Control_Holdout,200000,No,320,0.001600

@@ -1,0 +1,11 @@
+pair_id,treatment_dma,control_dma,treatment_pre_enrollments,control_pre_enrollments,treatment_test_enrollments,control_test_enrollments
+1,New York,Boston,42,36,285,76
+2,Los Angeles,San Francisco,38,33,260,69
+3,Chicago,Detroit,29,26,196,55
+4,Houston,Miami,27,24,182,51
+5,Phoenix,Washington DC,24,22,162,46
+6,Philadelphia,Atlanta,28,25,189,52
+7,San Antonio,Tampa,22,20,148,42
+8,San Diego,Seattle,25,21,168,44
+9,Dallas,Minneapolis,26,22,175,46
+10,San Jose,Denver,19,16,125,29
